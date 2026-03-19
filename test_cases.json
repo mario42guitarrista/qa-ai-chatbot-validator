@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is the capital of Brazil?",
+    "expected": "Brasília"
+  },
+  {
+    "question": "What is 2 + 2?",
+    "expected": "4"
+  },
+  {
+    "question": "Who wrote Hamlet?",
+    "expected": "Shakespeare"
+  },
+  {
+    "question": "What is the capital of France?",
+    "expected": "Paris"
+  }
+]
